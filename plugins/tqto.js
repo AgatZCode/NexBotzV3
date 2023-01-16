@@ -49,6 +49,7 @@ Terimakasih Juga Untuk Kang Banned:
 • Krizynofc
 • Nadin
 • NexEp
+• AgatZ
 • Jarot
 • Tio
 • Aca Mirabel
@@ -70,7 +71,7 @@ Terimakasih Juga Untuk Kang Banned:
 'mediaType':2,
 'previewType':'pdf',
 'title':`A MIMIR🎧: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-'body':`By NexEp`,
+'body':`By Agat`,
 'thumbnail':await(await fetch('https://telegra.ph/file/fb6ed7b403be07c191060.jpg')).buffer(),
 'sourceUrl':'https://youtu.be/dd2FWLD6H9Q'}},
 'caption':cap,
